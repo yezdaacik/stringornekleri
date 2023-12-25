@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\bin\Debug\string örnekleri 815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\bin\Debug\string örnekleri 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\bin\Debug\string örnekleri 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string örnekleri 815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string örnekleri 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string_örnekleri_815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string_örnekleri_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string örnekleri 815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string örnekleri 815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string örnekleri 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\string örnekleri 815\string örnekleri 815\obj\Debug\string örnekleri 815.pdb
